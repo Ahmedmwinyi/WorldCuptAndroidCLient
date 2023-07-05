@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">androidclient</string>
+    <string name="team_name">Team Name</string>
+    <string name="titles">Titles</string>
+    <string name="continent">Continent</string>
+    <string name="coach_name">Coach Name</string>
+    <string name="key_player">Key Player</string>
+    <string name="save_team">Save Team</string>
+</resources>
